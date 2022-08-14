@@ -3,7 +3,7 @@
 作业链接：https://cs231n.github.io/assignments2017/assignment1/
 https://cs231n.github.io/assignments2017/assignment2/
 https://cs231n.github.io/assignments2017/assignment3/
-在Ubuntu的虚拟机上跑的，没有上传虚拟环境和dataset。
+在Ubuntu的虚拟机上跑的Linux，没有上传虚拟环境和dataset。
 
 Assignment1 主要为向量化的代码实现各种损失函数、梯度计算。
 顺便复习了一些线性代数和矩阵求导的知识。
