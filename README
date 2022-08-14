@@ -1,6 +1,8 @@
 斯坦福的CS231n(by Feifei Li)的习题（2017版）
 
-大部分为自己独立完成，小部分实在没有思路有参考网上的代码实现。
+作业链接：https://cs231n.github.io/assignments2017/assignment1/
+https://cs231n.github.io/assignments2017/assignment2/
+https://cs231n.github.io/assignments2017/assignment3/
 在Ubuntu的虚拟机上跑的，没有上传虚拟环境和dataset。
 
 Assignment1 主要为向量化的代码实现各种损失函数、梯度计算。
