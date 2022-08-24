@@ -1,0 +1,5 @@
+Collecting PyHamcrest
+  Downloading pyhamcrest-2.0.4-py3-none-any.whl (52 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 52.9/52.9 kB 989.2 kB/s eta 0:00:00
+Installing collected packages: PyHamcrest
+Successfully installed PyHamcrest-2.0.4
